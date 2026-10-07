@@ -91,4 +91,4 @@ This repository was created to strengthen my understanding of Java GUI developme
 The goal is to gradually progress from basic components to more interactive desktop applications while improving Java, object-oriented programming, and Git/GitHub skills.
 
 
-**Author:** Eshal Naeem
+**Author:** Eshal Naeem Raja
